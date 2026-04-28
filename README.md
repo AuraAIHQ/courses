@@ -6,4 +6,9 @@ Here we go! contribute your excellent courses to help children to grasp or get s
 - [Course 2](https://docs.google.com/presentation/d/1fFE9HFUB-7_ftrpoOMS52B0hCgPr-xEZ1SUNGwKuX8Y/edit?usp=sharing)
 - [Course 3](https://docs.google.com/presentation/d/1lgRdlhAVWGlHJtMt0EtCrws17FWIjh7nKUS2gzJ0v2M/edit?usp=sharing)
 - [Course 4 - Workshop](https://docs.google.com/presentation/d/1hDTDav9pyJCirTRWr82akpcY4ftXTY96JOGHX3onJhM/edit?usp=sharing)
-- 
+-
+
+## License
+
+This project is licensed under the [Apache License, Version 2.0](LICENSE).  
+Copyright 2024-present MushroomDAO Contributors. See [NOTICE](./NOTICE) for attribution.
